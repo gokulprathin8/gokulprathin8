@@ -1,6 +1,16 @@
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+  Hi visitor! Welcome to my Profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/gokulprathin8/gokulprathin8/blob/master/208593.gif">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/gokulprathin8/gokulprathin8/blob/main/208593.gif">
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   
