@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/gokulprathin8">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulprathin8&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulprathin8&theme=radical&border=7F3FBF&background=0D1117" alt="Gokul's GitHub streak"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 </a>
 
 
-![Gokul Prathin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulprathin8&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Gokul Prathin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulprathin8&custom_title=Gokul%20Prathin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## 🏆 GitHub Trophies
 
